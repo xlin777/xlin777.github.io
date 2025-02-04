@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2024.09 - 2029.07 (now)*, Phd，IIE, UCAS. 
+- *2024.09 - 2029.07 (now)*, Phd, IIE, UCAS. 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 这是一段被注释掉的文字 -->
 
 # 💬 Invited Talks
